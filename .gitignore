@@ -1,0 +1,9 @@
+
+*.suo
+*.user
+_ReSharper.*
+.vs/
+snasl/bin
+snasl/obj
+
+
