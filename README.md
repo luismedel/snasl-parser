@@ -14,6 +14,6 @@ I think there's some residual code here.
 
 This project is licensed under the [Free Software Foundation's GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-## Commercial licensing
+## Commercial licensing
 
 If use of this project under the AGPL v3.0 does not satisfy your organization’s legal department, commercial licenses are available. Feel free to [contact the author](mailto:luis@luismedel.com) for more details.
